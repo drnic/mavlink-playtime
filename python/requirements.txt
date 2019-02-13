@@ -1,2 +1,3 @@
 -e git://github.com/dronekit/dronekit-python#egg=dronekit
 pymavlink
+geopy
