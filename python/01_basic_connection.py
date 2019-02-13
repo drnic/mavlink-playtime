@@ -4,7 +4,7 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-c', '--connect',
-                    help='Connection string to MAVLink',
+                    help='Connection string to MAVLink, default udp:127.0.0.1:14550',
                     default='udp:127.0.0.1:14550')
 args = parser.parse_args()
 
