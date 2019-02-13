@@ -1,5 +1,7 @@
 # MAVLink Playtime in Python
 
+In lieu of a real drone, perhaps run the Software-in-the-loop (SITL). I wrote up some instructions for Vagrant/MacOS at https://discuss.ardupilot.org/t/tutorial-for-running-sitl-simulator-on-macos-with-vagrant-xquartz/38383
+
 The code examples assume Python 3+. To install dependencies:
 
 ```plain
