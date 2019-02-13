@@ -14,3 +14,5 @@ python3 01_basic_connection.py
 ```
 
 By default it attempts to connect on `udp:127.0.0.1:14550`. You can specify a different string with `-c` or `--connect`.
+
+See http://python.dronekit.io/guide/connecting_vehicle.html for more examples of connection strings.
